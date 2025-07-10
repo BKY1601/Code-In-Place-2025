@@ -45,14 +45,15 @@ cd lost-in-web
 
 --------
 
-📸 Preview
-🧠 QUIZ TIME!
+## 📸 Preview
+
+```🧠 QUIZ TIME!
 What year is Zen from?
 A) 2094
 B) 2255
 C) 1994
 D) 2050
-
+```
 ```
    (O_o) ... footsteps ...
     | |     
@@ -79,7 +80,8 @@ More info: https://codeinplace.stanford.edu
 
 -----
 
-📢 **_License_**
+## 📢 **_License_**
+
 This project is for educational and portfolio purposes.
 Feel free to fork, improve, or share with attribution.
 
