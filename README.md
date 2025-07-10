@@ -37,3 +37,42 @@ But things don’t go as planned.
 bash
 git clone https://github.com/yourusername/lost-in-web.git
 cd lost-in-web
+
+2. Run the script:
+   python lost_in_web.py
+   
+✅ **Note: Make sure you run it in a terminal for best experience!**
+
+--------
+
+📸 Preview
+🧠 QUIZ TIME!
+What year is Zen from?
+A) 2094
+B) 2255
+C) 1994
+D) 2050
+
+```
+   (O_o) ... footsteps ...
+    | |     
+   /   \  
+
+````
+------
+
+🎓 **_About Code in Place 2025_**
+
+Code in Place is a global online course taught by Stanford University.
+This project was submitted as part of the final assignment, demonstrating creativity, control flow, and Python fundamentals.
+
+More info: https://codeinplace.stanford.edu
+
+------
+
+## 👨‍💻 Author
+
+**Bipin Yadav**  
+📧 bipinyadav919@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/bipin-yadav-jan16)  
+🔗 [GitHub](https://github.com/BKY1601)
