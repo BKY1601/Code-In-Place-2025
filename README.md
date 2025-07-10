@@ -76,3 +76,10 @@ More info: https://codeinplace.stanford.edu
 📧 bipinyadav919@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/bipin-yadav-jan16)  
 🔗 [GitHub](https://github.com/BKY1601)
+
+-----
+
+📢 **_License_**
+This project is for educational and portfolio purposes.
+Feel free to fork, improve, or share with attribution.
+
