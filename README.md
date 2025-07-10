@@ -76,7 +76,8 @@ More info: https://codeinplace.stanford.edu
 **Bipin Yadav**  
 📧 bipinyadav919@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/bipin-yadav-jan16)  
-🔗 [GitHub](https://github.com/BKY1601)
+🔗 [GitHub](https://github.com/BKY1601)                                                                                                   
+🔗 [Live Project](https://codeinplace.stanford.edu/cip5/share/4x6blDBvZpl5OfSjB0uT)
 
 -----
 
